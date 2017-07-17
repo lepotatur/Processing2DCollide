@@ -2,7 +2,7 @@
 /*
 p5.collide2D was created by http://benmoren.com
 Some functions and code modified version from http://www.jeffreythompson.org/collision-detection
-GNU General Public 3.0 License
+Apache License 2.0 
 Processing2DCollide Version 0.1 | July 16, 2017
 
 Processing2DCollide made by @lepotatur on github
