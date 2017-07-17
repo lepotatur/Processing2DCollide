@@ -8,7 +8,7 @@ Processing2DCollide Version 0.1 | July 16, 2017
 Processing2DCollide made by @lepotatur on github
 __________________________________________________________________________
 \\.....................................................................//|
-I do not claim rights to this code. Rights go to their respective owners.|
+         I do not claim ownership/rights over the original code.         |
         All I did was convert p5.collide2D to Processing's Java.         |
 \\.....................................................................//|
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
